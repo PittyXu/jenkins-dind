@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:alpine
+FROM jenkins/jenkins:2.180-alpine
 # 下载安装Docker CLI
 
 USER root
